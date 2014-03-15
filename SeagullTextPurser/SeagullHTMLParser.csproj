@@ -7,7 +7,7 @@
     <ProjectGuid>{64C273DF-5C00-427D-91FA-5B26D62B4AA4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SeagullTextPurser</RootNamespace>
+    <RootNamespace>SeagullHTMLParser</RootNamespace>
     <AssemblyName>SeagullTextPurser</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
